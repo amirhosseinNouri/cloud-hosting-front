@@ -205,24 +205,43 @@ a {
 }
 
 .btn--outline {
-    background-color: #fff;
-    color : var(--color--headings);
-    border: 2px solid var(--color--headings);
+  background-color: #fff;
+  color: var(--color--headings);
+  border: 2px solid var(--color--headings);
 }
 
-.btn--outline:hover{
-    color : #fff;
-    background-color: var(--color--headings);
-
+.btn--outline:hover {
+  color: #fff;
+  background-color: var(--color--headings);
 }
 .btn--block {
   width: 100%;
   display: inline-block;
 }
 
+@media screen and (min-width: 1024px) {
+  .btn {
+    font-size: 1.5rem;
+  }
+}
 
-@media screen and (min-width : 1024px){
-    .btn {
-        font-size: 1.5rem;
-    }
+/* Inputs */
+
+.input {
+  border: 1px solid #ccc;
+  border-radius: 30px;
+  color: var(--color--headings);
+  font-size: 2rem;
+  outline: none;
+  padding: 1.5rem 3.5rem;
+}
+
+::placeholder {
+  color: #cdcbd7;
+}
+
+@media screen and (min-width: 1024px) {
+  .input {
+    font-size: 1.5rem;
+  }
 }
