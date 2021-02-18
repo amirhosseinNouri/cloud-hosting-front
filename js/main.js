@@ -1,5 +1,5 @@
-const collapsibleChevron = document.querySelector(".collapsible__chevron");
-const collapsible = document.querySelector(".collapsible");
-collapsibleChevron.addEventListener("click", () =>
-  collapsible.classList.toggle("collapsible--expanded")
-);
+document.querySelectorAll(".collapsible").forEach((item) => {
+  item.addEventListener("click", function () {
+    item.classList.toggle("collapsible--expanded");
+  });
+});
