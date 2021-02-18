@@ -197,6 +197,11 @@ a {
   white-space: nowrap;
 }
 
+.btn--small {
+  padding: 1.5rem 1.8rem;
+  font-size: 1.5rem;
+}
+
 .btn .icon {
   width: 2rem;
   height: 2rem;
@@ -282,6 +287,9 @@ a {
   border: 0;
   flex-grow: 1;
   padding: 1.5rem 2rem;
+  display: inline-block;
+  width: 5rem;
+  font-size: 1.7rem;
 }
 
 .input-group .btn {
