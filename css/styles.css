@@ -250,16 +250,38 @@ a {
 }
 
 .input-group input {
-    border : none;
-    flex-grow: 1;
-    padding : 1.5rem 1rem;
+  border: none;
+  flex-grow: 1;
+  padding: 1.5rem 1rem;
 }
 
 .input-group button {
-    margin : 4px;
+  margin: 4px;
 }
 @media screen and (min-width: 1024px) {
   .input {
     font-size: 1.5rem;
   }
+}
+/* Card */
+
+.card {
+  border-radius: 7px;
+  box-shadow: 0 0 20px 10px #f3f3f3;
+  overflow: hidden;
+}
+
+.card__header,
+.card__body {
+  padding: 2rem 3rem;
+}
+
+.card--primary header {
+  background-color: var(--color-primary);
+  color: #fff;
+}
+
+.card--secondary header {
+  background-color: var(--color-secondary);
+  color: #fff;
 }
