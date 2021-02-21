@@ -7,4 +7,6 @@
 
 A cloud hosting website using HTML and Css, just for practice.
 
-Checkout the final result [**here**](https://cloud-hosting-front.netlify.app/).
+Checkout the final result [**here**](https://cloud-hosting-front.netlify.app/) (you should probably use a VPN).
+
+
