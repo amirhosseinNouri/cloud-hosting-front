@@ -1,7 +1,4 @@
-# Cloud Hosting Front
-
-
-![logo](./images/tab.svg)
+![logo](./images/tab.svg) # Cloud Hosting Front
 
 ![image-20210221171119367](https://uupload.ir/files/93ei_selection_128.png)
 
