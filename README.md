@@ -1,8 +1,9 @@
 # Cloud Hosting Front
 
 
+![logo](./images/tab.svg)
 
-![image-20210221171119367](/home/amirhossein/snap/typora/33/.config/Typora/typora-user-images/image-20210221171119367.png)
+![image-20210221171119367](https://pasteboard.co/JPo6eNg.png)
 
 
 
