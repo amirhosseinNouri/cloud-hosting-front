@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage" : "https://github.com/amirhosseinnouri/cloud-hosting-front",
+  "homepage": "https://amirhosseinnouri.github.io/cloud-hosting-front",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "predeploy" : "parcel build index.html",
-    "deploy" : "gh-pages -d build"
+    "predeploy": "node_modules/.bin/parcel build index.html",
+    "deploy": "gh-pages -d dist"
   },
   "author": "",
   "license": "ISC",
