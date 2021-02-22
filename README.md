@@ -16,7 +16,7 @@ You can read more about it [here](https://css-tricks.com/bem-101/).
 I also tried to use object-oriented CSS principles to write a more maintainable style.
 Check this awesome technique [here](https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/).
 
-## WEbsite
+## Website
 **Check out the final result [here](https://cloud-hosting-front.netlify.app/) (you should probably use a VPN).**
 
 
